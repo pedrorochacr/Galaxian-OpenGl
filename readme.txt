@@ -1,5 +1,3 @@
-Nomes integrantes: Pedro Henrique Rocha de Castro e Matheus Shimizu Araujo
-Matriculas Integrantes: 20213004828(Pedro Henrique Rocha de Castro) e 20203000880(Matheus Shimizu Araujo)
 
 
 Instruções para compilação:
@@ -11,7 +9,3 @@ instalações do OpenGl no computador.O projeto foi executado no Windows.
 -Tecla r reinicia o jogo.
 -Tecla p pausa o jogo
 -Esc sai da aplicação
-
-
-Itens adicionais:
--Explosão da nave quando o gameOver ocorre
