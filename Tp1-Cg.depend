@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1639862575 source:c:\codeblocks\exercicios\tp1-cg\main.cpp
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1635530743 c:\codeblocks\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1635530757 c:\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1635530757 c:\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1635530757 c:\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1635530733 c:\codeblocks\mingw\include\soil\soil.h
+
+1639447171 source:c:\codeblocks\exercicios\tp1-cg\tela.c
+	<SOIL/SOIL.h>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+
